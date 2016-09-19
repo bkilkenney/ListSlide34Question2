@@ -1,1 +1,5 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\ListSlide34Question2\ListSlide34Question2\bin\Debug\ListSlide34Question2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListSlide34Question2\ListSlide34Question2\bin\Debug\ListSlide34Question2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListSlide34Question2\ListSlide34Question2\bin\Debug\ListSlide34Question2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListSlide34Question2\ListSlide34Question2\obj\Debug\ListSlide34Question2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListSlide34Question2\ListSlide34Question2\obj\Debug\ListSlide34Question2.pdb
